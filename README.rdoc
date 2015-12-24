@@ -1,3 +1,5 @@
+Loading the thing in initializers along with the generator
+
 ```
 $ ruby -Iconfig/initializers -rgenerator_patch -S bin/rails g scaffold user name:string
 ```
