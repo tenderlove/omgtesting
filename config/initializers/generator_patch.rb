@@ -1,3 +1,6 @@
+require 'rails/generators'
+require 'rails/generators/named_base'
+puts "I was loaded"
 # This is not complete, but I'm more interested in making Rails read this part
 # than in finishing it.
 
